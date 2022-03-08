@@ -1,0 +1,76 @@
+.CARD9{
+  background-color: white;
+  height: 900px;
+}
+.Screenshots{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  margin-top: -90px;
+  background-image: url(./div9/angle.jpg);
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.DIV9PICS{
+  height: 300px;
+  display: flex;
+  justify-content: center;
+
+}
+.COMMENT{
+display: flex;
+justify-content: center;
+margin-top: +70px;
+background-image: url(./div9/angle.jpg);
+background-size: 250px;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+.LOREM{
+  height: 150px;
+  display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.QuoteQ{
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.OrangeQ{
+  height: 40px;
+  width: 50px;
+}
+
+.NAMING{
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.SLIDER2{
+  height: 150px;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.Designer{
+color: orangered;
+}
+.womantest{
+  height: 50px;
+}
+.mantest2{
+  height: 50px;
+}
+.mantest3{
+  height: 50px;
+}
